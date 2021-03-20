@@ -1,4 +1,4 @@
-# Garage - James
+# Garage - Nox
 
 ## Requirements
 * [es_extended](https://github.com/ESX-Org/es_extended)
@@ -23,4 +23,4 @@
 
 1. Add the sql to the database
 2. Add the resource
-3. Put start garage in server.cfg
+3. Put start nox_garage in server.cfg
